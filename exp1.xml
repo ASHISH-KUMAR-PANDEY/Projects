@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <emails>  
 <email>  
-  		<to>Vimal</to>  
+  		<to>Vimla</to>  
   		<from>Sonoo</from>  
   		<heading>Hello</heading>  
   		<body>Hello brother, how are you!</body>  
